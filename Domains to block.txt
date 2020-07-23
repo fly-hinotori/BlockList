@@ -1,5 +1,9 @@
 #Domains to block
 
+update.billing620.com
+gerdig.com
+lontaw.com
+sendgrid.net
 ovh.net
 jobadvancedsearch.com
 lateanub.com
